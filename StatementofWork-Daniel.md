@@ -12,20 +12,20 @@ Deliverables will be transferred to the client before the March 20th. If problem
 ## Deliverables
 
 A `testGenerator` class used to pull questions from a test bank and present the randomized questions in a GUI format to the student test taker. This will utilize the following functionality to create this GUI:
-- CSV File: `testBank` – A set of questions loaded in by the instructor prior to the test date.
-- Student GUI Interface: A GUI interacted with by the student containing
-    - Buttons: Interactive radio buttons to allow for selection of multiple choice answers
-    - Text Box: This will allow for student to enter short answer or fill-in-the-blank questions
-- Any additional helper functions will be available to call as a public function.
+    CSV File: `testBank` – A set of questions loaded in by the instructor prior to the test date.
+    Student GUI Interface: A GUI interacted with by the student containing
+        Buttons: Interactive radio buttons to allow for selection of multiple choice answers
+        Text Box: This will allow for student to enter short answer or fill-in-the-blank questions
+    Any additional helper functions will be available to call as a public function.
 
 ## Timeline
 
 Updates are expected twice each week during Tuesday and Thursday meeting times. Timeline of events are expected to be:
-- **Thursday Mar 2nd**: Finalize preparations for project startup. Determine what Project will look like with <client_name>
-- **Tuesday Mar 7th**: TKinter research done and project outline started.
-- **Thursday Mar 9th**: Frames, buttons, and text box have been coded, CSV input has been accounted for. 
-- **Tuesday Mar 14th**: Fixes and testing start here.
-- **Thursday Mar 16th**: General implementation finished, ready to submit a pull request to github repository.
+    **Thursday Mar 2nd**: Finalize preparations for project startup. Determine what Project will look like with <client_name>
+    **Tuesday Mar 7th**: TKinter research done and project outline started.
+    **Thursday Mar 9th**: Frames, buttons, and text box have been coded, CSV input has been accounted for. 
+    **Tuesday Mar 14th**: Fixes and testing start here.
+    **Thursday Mar 16th**: General implementation finished, ready to submit a pull request to github repository.
 
 ## Compensation
 
